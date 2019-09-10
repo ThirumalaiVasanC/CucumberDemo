@@ -19,5 +19,5 @@ import cucumber.api.junit.Cucumber;
 public class TestRunner {
 
 	
-		
+	//for TestNG configration we use this function	
 }

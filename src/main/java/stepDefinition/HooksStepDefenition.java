@@ -19,7 +19,7 @@ public class HooksStepDefenition {
 		System.out.println("Before clearcookies launched successfully");
 	}
 	
-	@After(order=0)
+	@After(order=1)
 	public void closeBrowser()
 	{
 		System.out.println("closeBrowser launched successfully");
